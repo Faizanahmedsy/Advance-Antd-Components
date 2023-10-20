@@ -1,0 +1,32 @@
+.ant-card {
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-card-head {
+  background-color: #f0f2f5;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.ant-card-head-title {
+  color: #1890ff;
+}
+
+.ant-card-body {
+  padding: 16px;
+}
+
+.ant-card-actions {
+  border-top: 1px solid #e8e8e8;
+  padding: 10px 16px;
+  text-align: right;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}

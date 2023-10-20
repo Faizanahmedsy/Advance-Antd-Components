@@ -1,6 +1,6 @@
 import React from "react";
 import { Card } from "antd";
-import "./BeautifulCard.css"; // Custom CSS file for styling
+import "./Card1.css"; // Custom CSS file for styling
 
 const BeautifulCard = () => {
   return (
